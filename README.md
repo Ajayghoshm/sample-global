@@ -14,7 +14,9 @@ env file might be missing, please add the following in a file with .env.local
 
 
 MONGODB_URI=mongodb+srv://ajayghosh:indianindian@cluster0.3xzredj.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
+
 MONGODB_DB='globeia'
+
 DEV_URL = "http://localhost:3000"
 
 PROD_URL = ""
